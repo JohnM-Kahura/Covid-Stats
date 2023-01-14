@@ -1,16 +1,9 @@
 # covid_stats
 
-A new Flutter project.
+THis app consumes the VACCOVID API that can be found at 
+https://rapidapi.com/vaccovidlive-vaccovidlive-default/api/vaccovid-coronavirus-vaccine-and-treatment-tracker
 
-## Getting Started
+THe app is built with Flutter and Dart
 
-This project is a starting point for a Flutter application.
+Screenshots of the working app
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
