@@ -9,4 +9,9 @@ https://drive.google.com/file/d/1R0vDoerPXqTluhZat-lLTe74Z0_m12VF/view?usp=share
 
 
 Screenshots of the working app
+![ 1](https://github.com/JohnM-Kahura/Covid-Stats/blob/master/screenshots/1.jpeg)
+![](https://github.com/JohnM-Kahura/Covid-Stats/blob/master/screenshots/2.jpeg)
+![](https://github.com/JohnM-Kahura/Covid-Stats/blob/master/screenshots/3.jpeg)
+![](https://github.com/JohnM-Kahura/Covid-Stats/blob/master/screenshots/4.jpeg)
+
 
